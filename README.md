@@ -11,10 +11,10 @@
 
 ## 👋 About Me
 
-🎓 B.Tech Computer Science student at **Aditya University**  
-💻 Aspiring **Junior Full-Stack Developer (MERN Stack)**  
-🧠 Strong foundation in **DSA (Java)**  
-🚀 Passionate about **Backend Systems, Cloud, and AI-Driven Applications**
+ B.Tech Computer Science student at **Aditya University**  
+ Aspiring **Junior Full-Stack Developer (MERN Stack)**  
+ Strong foundation in **DSA (Java)**  
+ Passionate about **Backend Systems, Cloud, and AI-Driven Applications**
 
 I enjoy building **clean, scalable APIs**, solving problems, and continuously learning modern technologies to create **high-performance, user-centric software solutions**.
 
@@ -27,7 +27,7 @@ I enjoy building **clean, scalable APIs**, solving problems, and continuously le
 
 ## 💼 Experience
 
-### 🌐 Web Development Intern  
+###  Web Development Intern  
 **SkillDzire (Online)** | *May 2025 – Jun 2025*
 
 - Completed a structured **6-week internship** in full-stack web development  
@@ -38,8 +38,8 @@ I enjoy building **clean, scalable APIs**, solving problems, and continuously le
 
 ## 🚀 Projects
 
-### 🔐 Real-Time OTP Text Messaging System  
-📅 *Aug 2025 – Sep 2025*
+###  Real-Time OTP Text Messaging System  
+ *Aug 2025 – Sep 2025*
 
 - Developed a real-time OTP generation & verification system using **Firebase**
 - Integrated SMS services for **secure 4-digit OTP delivery**
@@ -47,8 +47,8 @@ I enjoy building **clean, scalable APIs**, solving problems, and continuously le
 - Focused on performance, security, and usability
 
 
-### 📚 LibraryHub – Bookstore API  
-📅 *Sep 2025 – Present*
+###  LibraryHub – Bookstore API  
+ *Sep 2025 – Present*
 
 - Built a **production-ready REST API** for book management
 - Implemented complete **CRUD operations**
@@ -59,12 +59,12 @@ I enjoy building **clean, scalable APIs**, solving problems, and continuously le
 ## 🎓 Education
 
 **Aditya University** *(Formerly Aditya Engineering College)*  
-📍 Kakinada, India  
-🎓 **B.Tech in Computer Science & Engineering**  
-📅 *Jul 2023 – Present*
+ Kakinada, India  
+ **B.Tech in Computer Science & Engineering**  
+ *Jul 2023 – Present*
 
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight&hide_border=true" />
@@ -81,7 +81,7 @@ I enjoy building **clean, scalable APIs**, solving problems, and continuously le
 
 
 
-## 🤝 Connect With Me
+##  Connect With Me
 
 <p align="center">
   <a href="mailto:itsme.kundan.prasad.yadav@gmail.com">
@@ -101,5 +101,3 @@ I enjoy building **clean, scalable APIs**, solving problems, and continuously le
   </a>
 </p>
 
-
-⭐ *Always learning, building, and growing toward becoming a versatile Full-Stack & AI Engineer.*

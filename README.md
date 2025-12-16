@@ -11,7 +11,6 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
 </p>
 
----
 
 ## 👋 About Me
 
@@ -22,15 +21,12 @@
 
 I enjoy building **clean, scalable APIs**, solving problems, and continuously learning modern technologies to create **high-performance, user-centric software solutions**.
 
----
 
 ## 🛠️ Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,js,react,nodejs,express,mongodb,html,css,git,github,python" />
 </p>
-
----
 
 ## 💼 Experience
 
@@ -42,7 +38,6 @@ I enjoy building **clean, scalable APIs**, solving problems, and continuously le
 - Worked in an **Agile workflow** with proper project structuring  
 - Strengthened frontend fundamentals and collaboration skills  
 
----
 
 ## 🚀 Projects
 
@@ -54,7 +49,6 @@ I enjoy building **clean, scalable APIs**, solving problems, and continuously le
 - Enabled OTP requests without prior authentication
 - Focused on performance, security, and usability
 
----
 
 ### 📚 LibraryHub – Bookstore API  
 📅 *Sep 2025 – Present*
@@ -64,7 +58,6 @@ I enjoy building **clean, scalable APIs**, solving problems, and continuously le
 - Designed scalable architecture and clean code structure
 - Efficient handling of book listings, additions, updates, and deletions
 
----
 
 ## 🎓 Education
 
@@ -73,7 +66,6 @@ I enjoy building **clean, scalable APIs**, solving problems, and continuously le
 🎓 **B.Tech in Computer Science & Engineering**  
 📅 *Jul 2023 – Present*
 
----
 
 ## 📊 GitHub Stats
 
@@ -89,10 +81,7 @@ I enjoy building **clean, scalable APIs**, solving problems, and continuously le
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
----
-## 🐍 Contribution Snake Animation
 
-![Contribution Snake](https://raw.githubusercontent.com/ydvkundan2005/ydvkundan2005/output/github-contribution-grid-snake.svg)
 
 
 

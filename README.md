@@ -90,11 +90,7 @@ I enjoy building **clean, scalable APIs**, solving problems, and continuously le
 </p>
 
 ---
-
-## 🐍 Contribution Snake Animation
-
-
-![snake animation](https://raw.githubusercontent.com/ydvkundan2005/ydvkundan2005/output/github-contribution-grid-snake.svg)
+https://raw.githubusercontent.com/ydvkundan2005/ydvkundan2005/output/github-contribution-grid-snake.svg
 
 
 

@@ -81,14 +81,25 @@ I enjoy building **clean, scalable APIs**, solving problems, and continuously le
 
 
 
-
-
 ## 🤝 Connect With Me
 
-📧 Email: **itsme.kundan.prasad.yadav@gmail.com**  
-💼 LinkedIn: **www.linkedin.com/in/kundan-prasad-yadav-954399283**  
-💻 Leetcode: **https://leetcode.com/u/ydv_kundan2005/**
+<p align="center">
+  <a href="mailto:itsme.kundan.prasad.yadav@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/kundan-prasad-yadav-954399283">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/u/ydv_kundan2005/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+  <a href="https://www.hackerrank.com/profile/ydv_kundan2005">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
+  </a>
+  <a href="https://www.codechef.com/users/ydv_kundan2005">
+    <img src="https://img.shields.io/badge/CodeChef-333333?style=for-the-badge&logo=codechef&logoColor=white" />
+  </a>
+</p>
 
----
 
 ⭐ *Always learning, building, and growing toward becoming a versatile Full-Stack & AI Engineer.*

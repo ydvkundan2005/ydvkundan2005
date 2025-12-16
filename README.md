@@ -90,7 +90,10 @@ I enjoy building **clean, scalable APIs**, solving problems, and continuously le
 </p>
 
 ---
-https://raw.githubusercontent.com/ydvkundan2005/ydvkundan2005/output/github-contribution-grid-snake.svg
+## 🐍 Contribution Snake Animation
+
+![Contribution Snake](https://raw.githubusercontent.com/ydvkundan2005/ydvkundan2005/output/github-contribution-grid-snake.svg)
+
 
 
 
@@ -98,7 +101,7 @@ https://raw.githubusercontent.com/ydvkundan2005/ydvkundan2005/output/github-cont
 
 📧 Email: **itsme.kundan.prasad.yadav@gmail.com**  
 💼 LinkedIn: **www.linkedin.com/in/kundan-prasad-yadav-954399283**  
-💻 GitHub: **https://github.com/your-github-username**
+💻 Leetcode: **https://leetcode.com/u/ydv_kundan2005/**
 
 ---
 

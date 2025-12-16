@@ -100,7 +100,7 @@ I enjoy building **clean, scalable APIs**, solving problems, and continuously le
 ## 🤝 Connect With Me
 
 📧 Email: **itsme.kundan.prasad.yadav@gmail.com**  
-💼 LinkedIn: **Add your LinkedIn link here**  
+💼 LinkedIn: **www.linkedin.com/in/kundan-prasad-yadav-954399283**  
 💻 GitHub: **https://github.com/your-github-username**
 
 ---

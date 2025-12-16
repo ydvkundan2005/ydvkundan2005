@@ -93,7 +93,10 @@ I enjoy building **clean, scalable APIs**, solving problems, and continuously le
 
 ## 🐍 Contribution Snake Animation
 
-![snake animation](https://raw.githubusercontent.com/your-github-username/your-github-username/output/github-contribution-grid-snake.svg)
+## 🐍 Contribution Snake Animation
+
+![snake animation](https://raw.githubusercontent.com/ydvkundan2005/ydvkundan2005/output/github-contribution-grid-snake.svg)
+
 
 ---
 

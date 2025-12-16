@@ -1,9 +1,8 @@
 <!-- ====== Animated Banner ====== -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Kundan%20Prasad%20Yadav&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 
-<!-- ====== Coding GIF ====== -->
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&center=true&vCenter=true&width=850&lines=Hi+I'm+Kundan+Prasad+Yadav;Aspiring+Full+Stack+Developer;MERN+Stack+%7C+Backend+%7C+AI+Enthusiast;Building+Scalable+Web+Applications" />
 </p>
 
 <p align="center">

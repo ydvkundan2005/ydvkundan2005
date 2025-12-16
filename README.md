@@ -1,16 +1,108 @@
-## Hi there 👋
+<!-- ====== Animated Banner ====== -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Kundan%20Prasad%20Yadav&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 
-<!--
-**ydvkundan2005/ydvkundan2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- ====== Typing Animation ====== -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&center=true&vCenter=true&width=850&lines=Hi+I'm+Kundan+Prasad+Yadav;Aspiring+Full+Stack+Developer;MERN+Stack+%7C+Backend+%7C+AI+Enthusiast;Building+Scalable+Web+Applications" />
+</p>
 
-Here are some ideas to get you started:
+<!-- ====== Coding GIF ====== -->
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👋 About Me
+
+🎓 B.Tech Computer Science student at **Aditya University**  
+💻 Aspiring **Junior Full-Stack Developer (MERN Stack)**  
+🧠 Strong foundation in **DSA (Java)**  
+🚀 Passionate about **Backend Systems, Cloud, and AI-Driven Applications**
+
+I enjoy building **clean, scalable APIs**, solving problems, and continuously learning modern technologies to create **high-performance, user-centric software solutions**.
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,js,react,nodejs,express,mongodb,html,css,git,github,python" />
+</p>
+
+---
+
+## 💼 Experience
+
+### 🌐 Web Development Intern  
+**SkillDzire (Online)** | *May 2025 – Jun 2025*
+
+- Completed a structured **6-week internship** in full-stack web development  
+- Practiced **Git & GitHub** for version control and deployment  
+- Worked in an **Agile workflow** with proper project structuring  
+- Strengthened frontend fundamentals and collaboration skills  
+
+---
+
+## 🚀 Projects
+
+### 🔐 Real-Time OTP Text Messaging System  
+📅 *Aug 2025 – Sep 2025*
+
+- Developed a real-time OTP generation & verification system using **Firebase**
+- Integrated SMS services for **secure 4-digit OTP delivery**
+- Enabled OTP requests without prior authentication
+- Focused on performance, security, and usability
+
+---
+
+### 📚 LibraryHub – Bookstore API  
+📅 *Sep 2025 – Present*
+
+- Built a **production-ready REST API** for book management
+- Implemented complete **CRUD operations**
+- Designed scalable architecture and clean code structure
+- Efficient handling of book listings, additions, updates, and deletions
+
+---
+
+## 🎓 Education
+
+**Aditya University** *(Formerly Aditya Engineering College)*  
+📍 Kakinada, India  
+🎓 **B.Tech in Computer Science & Engineering**  
+📅 *Jul 2023 – Present*
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🐍 Contribution Snake Animation
+
+![snake animation](https://raw.githubusercontent.com/your-github-username/your-github-username/output/github-contribution-grid-snake.svg)
+
+---
+
+## 🤝 Connect With Me
+
+📧 Email: **itsme.kundan.prasad.yadav@gmail.com**  
+💼 LinkedIn: **Add your LinkedIn link here**  
+💻 GitHub: **https://github.com/your-github-username**
+
+---
+
+⭐ *Always learning, building, and growing toward becoming a versatile Full-Stack & AI Engineer.*

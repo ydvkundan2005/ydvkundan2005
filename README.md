@@ -11,6 +11,9 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ydvkundan2005/ydvkundan2005/refs/heads/main/240815616-7b282ec6-fcc3-4600-90a7-2c3140549f58.gif" />
+</p>
 
 ## 👋 About Me
 

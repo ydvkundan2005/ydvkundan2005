@@ -100,4 +100,16 @@ I enjoy building **clean, scalable APIs**, solving problems, and continuously le
     <img src="https://img.shields.io/badge/CodeChef-333333?style=for-the-badge&logo=codechef&logoColor=white" />
   </a>
 </p>
+## 📄 Download Resume
+
+<p align="center">
+  <a href="https://github.com/user-attachments/files/26242857/Kundan_Prasad_Yadav_Resume.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/Download%20Resume-7c5cff?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  Get a detailed overview of my skills, projects, and experience.
+</p>
+[Kundan_Prasad_Yadav_Resume.pdf](https://github.com/user-attachments/files/26242857/Kundan_Prasad_Yadav_Resume.pdf)
 

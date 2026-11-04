@@ -1,27 +1,24 @@
 <div align="center">
 
-![Kundan Prasad Yadav](https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=600&size=32&duration=3200&pause=900&color=F5F5F5&center=true&vCenter=true&width=650&height=62&lines=KUNDAN+PRASAD+YADAV&repeat=false#gh-dark-mode-only)
-![Kundan Prasad Yadav](https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=600&size=32&duration=3200&pause=900&color=171717&center=true&vCenter=true&width=650&height=62&lines=KUNDAN+PRASAD+YADAV&repeat=false#gh-light-mode-only)
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=600&size=34&duration=3000&pause=900&color=767676&center=true&vCenter=true&width=720&height=72&lines=KUNDAN+PRASAD+YADAV&repeat=false"
+    alt="Kundan Prasad Yadav"
+  />
 
-</div>
+  <br />
 
-<div align="center">
+  <img
+    src="./assets/constellation-dual-clean.gif"
+    width="500"
+    alt="Animated monochrome constellation made of connected points"
+  />
 
-![Minimalist geometric constellation animation](./assets/constellation-dual-mode.gif)
+  <br />
 
-</div>
+  <sub>B.Tech Computer Science · Class of 2027</sub>
 
-<div align="center">
+  <p><em>Curious by nature. Consistent by practice.</em></p>
 
-<sub>B.Tech Computer Science · Class of 2027</sub>
-
-<br />
-
-![Curious by nature. Consistent by practice.](https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=14&duration=2600&pause=1200&color=AAAAAA&center=true&vCenter=true&width=420&height=28&lines=Curious+by+nature.+Consistent+by+practice.&repeat=true#gh-dark-mode-only)
-![Curious by nature. Consistent by practice.](https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=14&duration=2600&pause=1200&color=666666&center=true&vCenter=true&width=420&height=28&lines=Curious+by+nature.+Consistent+by+practice.&repeat=true#gh-light-mode-only)
-
-<br />
-
-[**LinkedIn ↗**](https://www.linkedin.com/in/kundan-prasad-yadav-954399283)
+  <a href="https://www.linkedin.com/in/kundan-prasad-yadav-954399283">LinkedIn ↗</a>
 
 </div>

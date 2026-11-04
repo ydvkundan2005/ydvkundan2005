@@ -7,9 +7,7 @@
 
 <div align="center">
 
-![Left accent lines](./assets/profile-lines.svg#gh-dark-mode-only)
-![Kundan's animated portrait](https://raw.githubusercontent.com/ydvkundan2005/ydvkundan2005/main/240815616-7b282ec6-fcc3-4600-90a7-2c3140549f58.gif#gh-dark-mode-only)
-![Right accent lines](./assets/profile-lines.svg#gh-dark-mode-only)
+![Minimalist geometric constellation animation](./assets/constellation-dual-mode.gif)
 
 </div>
 

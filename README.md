@@ -1,17 +1,5 @@
 <div align="center">
 
-  <!-- Theme-aware monochrome header -->
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,100:555555&height=105&section=header&animation=fadeIn#gh-dark-mode-only"
-    width="100%"
-    alt="Minimal monochrome header"
-  />
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:FFFFFF,100:DDDDDD&height=105&section=header&animation=fadeIn#gh-light-mode-only"
-    width="100%"
-    alt="Minimal monochrome header"
-  />
-
   <br />
 
   <!-- Dark mode keeps the original animated portrait; light mode uses a clear, high-contrast version. -->

@@ -4,7 +4,13 @@
     src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=600&size=34&duration=3000&pause=900&color=767676&center=true&vCenter=true&width=720&height=72&lines=KUNDAN+PRASAD+YADAV&repeat=false"
     alt="Kundan Prasad Yadav"
   />
-
+<p align="center">
+  <img
+    src="./assets/kundan-portrait-reveal.gif"
+    width="280"
+    alt="Kundan portrait reveal animation"
+  />
+</p>
   <br />
 
   <img

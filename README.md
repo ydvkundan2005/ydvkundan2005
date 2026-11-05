@@ -2,7 +2,7 @@
   <tr>
     <td valign="middle" width="72%">
       <h1>Kundan Prasad Yadav</h1>
-      <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2600&pause=850&color=641E2F&vCenter=true&width=540&height=40&lines=SOFTWARE+ENGINEERING+ENTHUSIAST;AI+%26+ML+ENTHUSIAST;COMPUTER+SCIENCE+STUDENT;BUILDING+PRACTICAL+PROJECTS" alt="Software Engineering Enthusiast | AI and ML Enthusiast | Computer Science Student" />
+      <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2600&pause=850&color=BB8975&vCenter=true&width=540&height=40&lines=SOFTWARE+ENGINEERING+ENTHUSIAST;AI+%26+ML+ENTHUSIAST;COMPUTER+SCIENCE+STUDENT;BUILDING+PRACTICAL+PROJECTS" alt="Software Engineering Enthusiast | AI and ML Enthusiast | Computer Science Student" />
       <p>B.Tech Computer Science and Engineering undergraduate at Aditya University, Class of 2027.</p>
       <p>Exploring software engineering and AI/ML, strengthening problem-solving skills, and building practical, user-focused applications.</p>
       <p>

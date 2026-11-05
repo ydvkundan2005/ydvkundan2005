@@ -27,11 +27,13 @@
 
 ## About
 
-I'm a Computer Science undergraduate at Aditya University (Class of 2027), interested in software development and using technology to solve practical problems.
+I'm a Computer Science and Engineering undergraduate at Aditya University (Class of 2027), with a strong academic foundation in computer science and an interest in software engineering, technology and problem-solving.
 
-My primary focus is software engineering: understanding problems, implementing maintainable solutions, debugging, documenting design decisions and improving reliability through testing. I'm also developing my foundations in Python, SQL, data analytics and applied machine learning.
+My academic exposure includes Data Structures and Algorithms (DSA), Object-Oriented Programming (OOP), DBMS, SQL, Operating Systems, Computer Networks, Software Engineering, Software Testing, Data Mining, Data Warehousing, Compiler Design, Artificial Intelligence (AI), Machine Learning (ML), Natural Language Processing (NLP), and Cloud Computing.
 
-I'm primarily interested in software engineering internships and entry-level software roles, while remaining open to suitable data analytics and AI/ML opportunities.
+I'm developing technical skills across programming, software development, full-stack development, frontend and backend technologies, REST APIs, database management, data analytics, AI/ML, Generative AI, automation, quality assurance (QA), test automation, debugging, version control (Git/GitHub), CI/CD and DevOps.
+
+Interested in building practical solutions, applying engineering principles, exploring emerging technologies and contributing to real-world projects. Open to internships and entry-level opportunities across Computer Science and Engineering.
 
 ## Explore
 

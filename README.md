@@ -13,7 +13,7 @@
       <p><em>Curious by nature. Consistent by practice.</em></p>
     </td>
     <td align="right" valign="middle" width="28%">
-      <img src="./assets/kundan-portrait-reveal.gif" width="180" alt="Kundan Prasad Yadav portrait" />
+      <img src="./assets/kundan-portrait-reveal.gif" width="150" alt="Kundan Prasad Yadav portrait" />
     </td>
   </tr>
 </table>

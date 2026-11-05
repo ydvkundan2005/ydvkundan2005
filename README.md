@@ -1,6 +1,6 @@
 <table>
   <tr>
-    <td valign="middle" width="72%">
+    <td valign="middle" width="65%">
       <h1>Kundan Prasad Yadav</h1>
       <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2600&pause=850&color=BB8975&vCenter=true&width=540&height=40&lines=SOFTWARE+ENGINEERING+ENTHUSIAST;AI+%26+ML+ENTHUSIAST;COMPUTER+SCIENCE+STUDENT;BUILDING+PRACTICAL+PROJECTS" alt="Software Engineering Enthusiast | AI and ML Enthusiast | Computer Science Student" />
       <p>B.Tech Computer Science and Engineering undergraduate at Aditya University, Class of 2027.</p>
@@ -12,8 +12,8 @@
       </p>
       <p><em>Curious by nature. Consistent by practice.</em></p>
     </td>
-    <td align="right" valign="middle" width="50%">
-      <img src="./assets/eat_sleep_code_repeat_transparent_typing.gif" width="200" alt="Kundan Prasad Yadav portrait" />
+    <td align="center" valign="middle" width="35%">
+      <img src="./assets/eat_sleep_code_repeat_transparent_typing.gif" width="320" alt="Animated eat, sleep, code, repeat typing animation" />
     </td>
   </tr>
 </table>

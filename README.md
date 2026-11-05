@@ -23,7 +23,7 @@
 <div align="center">
   <img
     src="./assets/constellation_transparent_silver_gray.gif"
-    width="300"
+    width="200"
     alt="Animated monochrome constellation made of connected points"
   />
 </div>

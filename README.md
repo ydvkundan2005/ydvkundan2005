@@ -1,32 +1,31 @@
+<table>
+  <tr>
+    <td valign="middle" width="72%">
+      <h1>Kundan Prasad Yadav</h1>
+      <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2600&pause=850&color=994A2F&vCenter=true&width=540&height=40&lines=SOFTWARE+ENGINEERING+ENTHUSIAST;AI+%26+ML+ENTHUSIAST;COMPUTER+SCIENCE+STUDENT;BUILDING+PRACTICAL+PROJECTS" alt="Software Engineering Enthusiast | AI and ML Enthusiast | Computer Science Student" />
+      <p>B.Tech Computer Science and Engineering undergraduate at Aditya University, Class of 2027.</p>
+      <p>Exploring software engineering and AI/ML, strengthening problem-solving skills, and building practical, user-focused applications.</p>
+      <p>
+        <a href="https://www.linkedin.com/in/kundan-prasad-yadav-954399283">LinkedIn</a> ·
+        <a href="https://ydvkundan2005.github.io/Portfolio-/">Portfolio</a> ·
+        <a href="https://github.com/ydvkundan2005?tab=repositories">Projects</a>
+      </p>
+      <p><em>Curious by nature. Consistent by practice.</em></p>
+    </td>
+    <td align="right" valign="middle" width="28%">
+      <img src="./assets/kundan-portrait-reveal.gif" width="180" alt="Kundan Prasad Yadav portrait" />
+    </td>
+  </tr>
+</table>
+
+<br />
+
 <div align="center">
-
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=600&size=34&duration=3000&pause=900&color=767676&center=true&vCenter=true&width=720&height=72&lines=KUNDAN+PRASAD+YADAV&repeat=false"
-    alt="Kundan Prasad Yadav"
-  />
-<p align="center">
-  <img
-    src="./assets/kundan-portrait-reveal.gif"
-    width="280"
-    alt="Kundan portrait reveal animation"
-  />
-</p>
-  <br />
-
   <img
     src="./assets/constellation-dual-clean.gif"
     width="500"
     alt="Animated monochrome constellation made of connected points"
   />
-
-  <br />
-
-  <sub>B.Tech Computer Science · Aditya University · Class of 2027</sub>
-
-  <p><em>Curious by nature. Consistent by practice.</em></p>
-
-  <a href="https://www.linkedin.com/in/kundan-prasad-yadav-954399283">LinkedIn ↗</a>
-
 </div>
 
 ---

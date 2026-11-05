@@ -13,7 +13,7 @@
       <p><em>Curious by nature. Consistent by practice.</em></p>
     </td>
     <td align="center" valign="middle" width="28%">
-      <img src="./assets/eat_sleep_code_repeat_transparent_typing.gif" width="150" alt="Animated eat, sleep, code, repeat typing animation" />
+      <img src="./assets/eat_sleep_code_repeat_transparent_typing.gif" width="230" alt="Animated eat, sleep, code, repeat typing animation" />
     </td>
   </tr>
 </table>

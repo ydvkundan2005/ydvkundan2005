@@ -17,7 +17,7 @@
   @media(prefers-reduced-motion:reduce){*{animation:none!important}}
  ]]></style>
 </defs>
-<rect width="1280" height="820" rx="26" fill="#000000"/>
+<rect width="1280" height="820" rx="26" fill="#0D1116"/>
 
 <rect x="26" y="19" width="1228" height="78" rx="15" fill="url(#headerGlow)"/>
 <text x="54" y="49" fill="#B78396" font-size="12" font-weight="800" letter-spacing="3">TECH STACK / IN MOTION</text>
@@ -165,34 +165,24 @@
  <text class="chip-label" x="4" y="0">Docker · CI/CD</text>
  </g></g>
 </g></g>
-<path d="M48 625H1232" stroke="#624653"/>
+<path d="M48 625H1232" stroke="#30363D"/>
 <text x="54" y="645" fill="#B78396" font-size="10.5" font-weight="800" letter-spacing="2">SKILLS / BY CATEGORY</text>
-<rect x="52" y="659" width="376" height="60" rx="11" class="chip" stroke="#D0A9B6"/>
-<rect x="52" y="659" width="5" height="60" rx="2.5" fill="#D0A9B6"/>
 <text x="69" y="680" fill="#D0A9B6" font-size="9.3" font-weight="800" letter-spacing="1.05">CORE COMPUTER SCIENCE &amp; LANGUAGES</text>
 <text x="69" y="699" class="title" font-size="10.0">Java · Python · C · JavaScript · DSA · OOP</text>
 <text x="69" y="713" class="muted" font-size="9.5">DBMS · Operating Systems · Networks · Software Engineering</text>
 
-<rect x="452" y="659" width="376" height="60" rx="11" class="chip" stroke="#B78396"/>
-<rect x="452" y="659" width="5" height="60" rx="2.5" fill="#B78396"/>
 <text x="469" y="680" fill="#B78396" font-size="9.3" font-weight="800" letter-spacing="1.05">WEB &amp; BACKEND DEVELOPMENT</text>
 <text x="469" y="699" class="title" font-size="10.0">HTML · CSS · React.js · Node.js · Express.js</text>
 <text x="469" y="713" class="muted" font-size="9.5">REST API Development</text>
 
-<rect x="852" y="659" width="376" height="60" rx="11" class="chip" stroke="#956879"/>
-<rect x="852" y="659" width="5" height="60" rx="2.5" fill="#956879"/>
 <text x="869" y="680" fill="#956879" font-size="9.3" font-weight="800" letter-spacing="1.05">DATABASES &amp; DATA SCIENCE</text>
 <text x="869" y="699" class="title" font-size="10.0">SQL · MySQL · MongoDB · NumPy · Pandas</text>
 <text x="869" y="713" class="muted" font-size="9.5">Matplotlib</text>
 
-<rect x="52" y="728" width="576" height="78" rx="11" class="chip" stroke="#B78396"/>
-<rect x="52" y="728" width="5" height="78" rx="2.5" fill="#B78396"/>
 <text x="69" y="749" fill="#B78396" font-size="9.3" font-weight="800" letter-spacing="1.05">AI / ML &amp; CLOUD</text>
 <text x="69" y="768" class="title" font-size="10.0">Scikit-learn · PyTorch · Generative AI · AI-powered applications</text>
 <text x="69" y="782" class="muted" font-size="9.5">AI-assisted coding · debugging · code review · Prompt Engineering</text>
 <text x="69" y="796" class="muted" font-size="9.5">AWS EC2 · S3 · RDS (Foundational Knowledge)</text>
-<rect x="644" y="728" width="584" height="78" rx="11" class="chip" stroke="#D0A9B6"/>
-<rect x="644" y="728" width="5" height="78" rx="2.5" fill="#D0A9B6"/>
 <text x="661" y="749" fill="#D0A9B6" font-size="9.3" font-weight="800" letter-spacing="1.05">DEVELOPER TOOLS &amp; ENVIRONMENTS</text>
 <text x="661" y="768" class="title" font-size="10.0">VS Code · npm · Postman · Git · GitHub</text>
 <text x="661" y="782" class="muted" font-size="9.5">GitHub Actions (Basic) · Docker (Basic) · Linux Command Line</text>

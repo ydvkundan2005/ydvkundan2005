@@ -4,7 +4,6 @@
       <h1><strong>Kundan Prasad Yadav</strong></h1>
       <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2600&pause=850&color=BB8975&vCenter=true&width=540&height=40&lines=SOFTWARE+DEVELOPMENT+ENTHUSIAST;AI+%26+ML+ENTHUSIAST;COMPUTER+SCIENCE+STUDENT;BUILDING+PRACTICAL+PROJECTS" alt="Software Development Enthusiast | AI and ML Enthusiast | Computer Science Student" />
       <p><strong>B.Tech Computer Science and Engineering</strong><br />Aditya University · Class of 2027</p>
-
     </td>
     <td align="center" valign="middle" width="28%">
       <img src="./assets/working_man_BB8975_transparent.gif" width="260" alt="Animated eat, sleep, code, repeat typing animation" />
@@ -69,7 +68,6 @@
 <li><strong>Development Environments:</strong> Jupyter Notebook · Google Colab</li>
 <li><strong>Operating Environment:</strong> Linux Command Line</li>
 </ul>
-
 </td>
 </tr>
 </table>

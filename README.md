@@ -1,45 +1,30 @@
-<table>
-  <tr>
-    <td valign="middle" width="72%">
-      <h1><strong>Kundan Prasad Yadav</strong></h1>
-      <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2600&pause=850&color=BB8975&vCenter=true&width=540&height=40&lines=SOFTWARE+DEVELOPMENT+ENTHUSIAST;AI+%26+ML+ENTHUSIAST;COMPUTER+SCIENCE+STUDENT;BUILDING+PRACTICAL+PROJECTS" alt="Software Development Enthusiast | AI and ML Enthusiast | Computer Science Student" />
-      <p><strong>B.Tech Computer Science and Engineering</strong><br />Aditya University · Class of 2027</p>
-      <p>Exploring software engineering and AI/ML, strengthening problem-solving skills, and building practical, user-focused applications.</p>
-      <p>
-        <a href="https://www.linkedin.com/in/kundan-prasad-yadav-954399283">LinkedIn</a> ·
-        <a href="https://ydvkundan2005.github.io/Portfolio-/">Portfolio</a> ·
-        <a href="https://github.com/ydvkundan2005?tab=repositories">Projects</a>
-      </p>
-      <p><em>Curious by nature. Consistent by practice.</em></p>
-    </td>
-    <td align="center" valign="middle" width="28%">
-      <img src="./assets/working_man_BB8975_transparent.gif" width="230" alt="Animated eat, sleep, code, repeat typing animation" />
-    </td>
-  </tr>
+<table width="100%">
+<tr>
+<td valign="middle" width="72%">
+<h1><strong>Kundan Prasad Yadav</strong></h1>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2600&pause=850&color=BB8975&vCenter=true&width=540&height=40&lines=SOFTWARE+DEVELOPMENT+ENTHUSIAST;AI+%26+ML+ENTHUSIAST;COMPUTER+SCIENCE+STUDENT;BUILDING+PRACTICAL+PROJECTS" alt="Software Development Enthusiast | AI and ML Enthusiast | Computer Science Student" />
+<p><strong>B.Tech Computer Science and Engineering</strong><br />Aditya University · Class of 2027</p>
+<p>I am a Computer Science and Engineering undergraduate interested in <strong>Software Engineering, Artificial Intelligence (AI), and Machine Learning (ML)</strong>. I enjoy building practical applications and leveraging <strong>AI-driven development</strong> to turn ideas into working solutions. I actively use AI-powered tools for coding, debugging, problem-solving, and improving development workflows, while continuously exploring modern AI technologies and their practical applications.</p>
+</td>
+<td align="center" valign="middle" width="28%">
+<img src="./assets/working_man_BB8975_transparent.gif" width="230" alt="Animated eat, sleep, code, repeat typing animation" />
+</td>
+</tr>
 </table>
-
 
 <br />
 
-<table>
-  <tr>
-    <td valign="middle" width="72%">
-      <h2>About Me</h2>
-      <p>I am a Computer Science and Engineering undergraduate interested in <strong>Software Engineering, Artificial Intelligence (AI), and Machine Learning (ML)</strong>. I enjoy building practical applications and leveraging <strong>AI-driven development</strong> to turn ideas into working solutions. I actively use AI-powered tools for coding, debugging, problem-solving, and improving development workflows, while continuously exploring modern AI technologies and their practical applications.</p>
-    </td>
-    <td align="center" valign="middle" width="28%">
-      <img src="./assets/constellation_transparent_silver_gray.gif" width="150" alt="Animated monochrome constellation made of connected points" />
-    </td>
-  </tr>
-</table>
-
-<hr />
-
-<h2>Technical Skills</h2>
-
-<table>
+<table width="100%">
 <tr>
-<td valign="top" width="50%">
+<td colspan="2" valign="middle" width="72%">
+<h2>Technical Skills</h2>
+</td>
+<td rowspan="2" align="center" valign="middle" width="28%">
+<img src="./assets/constellation_transparent_silver_gray.gif" width="150" alt="Animated monochrome constellation made of connected points" />
+</td>
+</tr>
+<tr>
+<td valign="top" width="36%">
 <p><img src="https://img.shields.io/badge/CORE_COMPUTER_SCIENCE-FUNDAMENTALS-994A2F?style=flat-square&labelColor=1A1A1A" alt="Core Computer Science Fundamentals" /></p>
 <ul>
 <li>Data Structures and Algorithms (DSA)</li>
@@ -57,7 +42,7 @@
 <p><img src="https://img.shields.io/badge/DATABASES-FOUNDATIONS-994A2F?style=flat-square&labelColor=1A1A1A" alt="Databases" /></p>
 <p>SQL · MySQL · MongoDB</p>
 </td>
-<td valign="top" width="50%">
+<td valign="top" width="36%">
 <p><img src="https://img.shields.io/badge/AI_ML-DATA_SCIENCE-994A2F?style=flat-square&labelColor=1A1A1A" alt="AI ML and Data Science" /></p>
 <ul>
 <li>Foundational knowledge of NumPy, Pandas, Scikit-learn, Matplotlib, and PyTorch</li>
@@ -74,9 +59,6 @@
 <li><strong>Development Environments:</strong> Jupyter Notebook · Google Colab</li>
 <li><strong>Operating Environment:</strong> Linux Command Line</li>
 </ul>
-
 </td>
 </tr>
 </table>
-
-

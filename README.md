@@ -4,16 +4,10 @@
       <h1><strong>Kundan Prasad Yadav</strong></h1>
       <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2600&pause=850&color=BB8975&vCenter=true&width=540&height=40&lines=SOFTWARE+DEVELOPMENT+ENTHUSIAST;AI+%26+ML+ENTHUSIAST;COMPUTER+SCIENCE+STUDENT;BUILDING+PRACTICAL+PROJECTS" alt="Software Development Enthusiast | AI and ML Enthusiast | Computer Science Student" />
       <p><strong>B.Tech Computer Science and Engineering</strong><br />Aditya University · Class of 2027</p>
-      <p>Exploring software engineering and AI/ML, strengthening problem-solving skills, and building practical, user-focused applications.</p>
-      <p>
-        <a href="https://www.linkedin.com/in/kundan-prasad-yadav-954399283">LinkedIn</a> ·
-        <a href="https://ydvkundan2005.github.io/Portfolio-/">Portfolio</a> ·
-        <a href="https://github.com/ydvkundan2005?tab=repositories">Projects</a>
-      </p>
-      <p><em>Curious by nature. Consistent by practice.</em></p>
+
     </td>
     <td align="center" valign="middle" width="28%">
-      <img src="./assets/working_man_BB8975_transparent.gif" width="230" alt="Animated eat, sleep, code, repeat typing animation" />
+      <img src="./assets/working_man_BB8975_transparent.gif" width="260" alt="Animated eat, sleep, code, repeat typing animation" />
     </td>
   </tr>
 </table>
@@ -23,11 +17,11 @@
 
 <table>
   <tr>
-    <td valign="middle" width="72%">
+    <td valign="middle" width="76%">
       <h2>About Me</h2>
       <p>I am a Computer Science and Engineering undergraduate interested in <strong>Software Engineering, Artificial Intelligence (AI), and Machine Learning (ML)</strong>. I enjoy building practical applications and leveraging <strong>AI-driven development</strong> to turn ideas into working solutions. I actively use AI-powered tools for coding, debugging, problem-solving, and improving development workflows, while continuously exploring modern AI technologies and their practical applications.</p>
     </td>
-    <td align="center" valign="middle" width="28%">
+    <td align="center" valign="middle" width="24%">
       <img src="./assets/constellation_transparent_silver_gray.gif" width="150" alt="Animated monochrome constellation made of connected points" />
     </td>
   </tr>

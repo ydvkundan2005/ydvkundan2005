@@ -7,7 +7,7 @@
 <p>I am a Computer Science and Engineering undergraduate interested in <strong>Software Engineering, Artificial Intelligence (AI), and Machine Learning (ML)</strong>. I enjoy building practical applications and leveraging <strong>AI-driven development</strong> to turn ideas into working solutions. I actively use AI-powered tools for coding, debugging, problem-solving, and improving development workflows, while continuously exploring modern AI technologies and their practical applications.</p>
 </td>
 <td align="center" valign="middle" width="28%">
-<img src="./assets/working_man_BB8975_transparent.gif" width="230" alt="Animated eat, sleep, code, repeat typing animation" />
+<img src="./assets/kundan_identity_card.gif" width="230" alt="Animated swinging blue identity card featuring Kundan Prasad Yadav" />
 </td>
 </tr>
 </table>

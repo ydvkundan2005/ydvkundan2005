@@ -74,20 +74,9 @@
 <li><strong>Development Environments:</strong> Jupyter Notebook · Google Colab</li>
 <li><strong>Operating Environment:</strong> Linux Command Line</li>
 </ul>
-<p><img src="https://img.shields.io/badge/AI_DRIVEN-DEVELOPMENT-994A2F?style=flat-square&labelColor=1A1A1A" alt="AI Driven Development" /></p>
-<p>AI tools for code generation, debugging, code review, technical research, and workflow automation to improve productivity, code quality, and development efficiency.</p>
+
 </td>
 </tr>
 </table>
 
-<p><em>Continuously learning, building practical projects, and exploring the evolving fields of Software Engineering and Artificial Intelligence.</em></p>
 
----
-
-## Explore
-
-- [Portfolio](https://ydvkundan2005.github.io/Portfolio-/)
-- [LinkedIn](https://www.linkedin.com/in/kundan-prasad-yadav-954399283)
-- [GitHub repositories](https://github.com/ydvkundan2005?tab=repositories)
-
----

@@ -7,58 +7,14 @@
 <p>I am a Computer Science and Engineering undergraduate interested in <strong>Software Engineering, Artificial Intelligence (AI), and Machine Learning (ML)</strong>. I enjoy building practical applications and leveraging <strong>AI-driven development</strong> to turn ideas into working solutions. I actively use AI-powered tools for coding, debugging, problem-solving, and improving development workflows, while continuously exploring modern AI technologies and their practical applications.</p>
 </td>
 <td align="center" valign="middle" width="28%">
-<img src="./assets/kundan_identity_card.gif" width="230" alt="Animated swinging blue identity card featuring Kundan Prasad Yadav" />
+<img src="./assets/kundan_identity_card.gif" width="230" alt="Animated swinging burgundy identity card featuring Kundan Prasad Yadav" />
 </td>
 </tr>
 </table>
 
 <br />
 
-<table width="100%">
-<tr>
-<td colspan="2" valign="middle" width="72%">
-<h2>Technical Skills</h2>
-</td>
-<td rowspan="2" align="center" valign="middle" width="28%">
-<img src="./assets/constellation_transparent_silver_gray.gif" width="150" alt="Animated monochrome constellation made of connected points" />
-</td>
-</tr>
-<tr>
-<td valign="top" width="36%">
-<p><img src="https://img.shields.io/badge/CORE_COMPUTER_SCIENCE-FUNDAMENTALS-994A2F?style=flat-square&labelColor=1A1A1A" alt="Core Computer Science Fundamentals" /></p>
-<ul>
-<li>Data Structures and Algorithms (DSA)</li>
-<li>Object-Oriented Programming (OOP)</li>
-<li>Database Management Systems (DBMS)</li>
-<li>Operating Systems and Computer Networks</li>
-<li>Software Engineering and Programming Fundamentals</li>
-</ul>
-<p><img src="https://img.shields.io/badge/PROGRAMMING-LANGUAGES-994A2F?style=flat-square&labelColor=1A1A1A" alt="Programming Languages" /></p>
-<p>Java · Python · C</p>
-<p><img src="https://img.shields.io/badge/DEVELOPMENT-FRONTEND-994A2F?style=flat-square&labelColor=1A1A1A" alt="Frontend Development" /></p>
-<p>HTML · CSS · JavaScript · React.js</p>
-<p><img src="https://img.shields.io/badge/DEVELOPMENT-BACKEND-994A2F?style=flat-square&labelColor=1A1A1A" alt="Backend Development" /></p>
-<p>Node.js · Express.js · REST API Development</p>
-<p><img src="https://img.shields.io/badge/DATABASES-FOUNDATIONS-994A2F?style=flat-square&labelColor=1A1A1A" alt="Databases" /></p>
-<p>SQL · MySQL · MongoDB</p>
-</td>
-<td valign="top" width="36%">
-<p><img src="https://img.shields.io/badge/AI_ML-DATA_SCIENCE-994A2F?style=flat-square&labelColor=1A1A1A" alt="AI ML and Data Science" /></p>
-<ul>
-<li>Foundational knowledge of NumPy, Pandas, Scikit-learn, Matplotlib, and PyTorch</li>
-<li>Learning Machine Learning concepts and exploring Generative AI and AI-powered applications</li>
-<li>AI-assisted coding, debugging, code review, and Prompt Engineering</li>
-</ul>
-<p><img src="https://img.shields.io/badge/CLOUD-COMPUTING-994A2F?style=flat-square&labelColor=1A1A1A" alt="Cloud Computing" /></p>
-<p><strong>AWS:</strong> EC2 · S3 · RDS <em>(Foundational Knowledge)</em></p>
-<p><img src="https://img.shields.io/badge/DEVELOPER-TOOLS-994A2F?style=flat-square&labelColor=1A1A1A" alt="Developer Tools and Technologies" /></p>
-<ul>
-<li><strong>Development:</strong> Visual Studio Code · npm · Postman</li>
-<li><strong>Version Control:</strong> Git · GitHub</li>
-<li><strong>Automation &amp; CI/CD:</strong> GitHub Actions (Basic) · Docker (Basic)</li>
-<li><strong>Development Environments:</strong> Jupyter Notebook · Google Colab</li>
-<li><strong>Operating Environment:</strong> Linux Command Line</li>
-</ul>
-</td>
-</tr>
-</table>
+<p align="center">
+<img src="./assets/tech-stack-orbit-dark.svg#gh-dark-mode-only" alt="Animated burgundy technology orbit in dark mode" width="100%" />
+<img src="./assets/tech-stack-orbit-light.svg#gh-light-mode-only" alt="Animated burgundy technology orbit in light mode" width="100%" />
+</p>

@@ -1,0 +1,200 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 820" width="1280" height="820" role="img" aria-labelledby="title desc">
+<title id="title">Kundan's animated technology orbit</title>
+<desc id="desc">A continuously rotating burgundy and plum technology orbit showing Kundan's programming languages, computer science foundations, web development, backend, databases, AI and machine learning, AWS fundamentals and developer tools.</desc>
+<defs>
+ <linearGradient id="wineGradient" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#51303C"/><stop offset=".55" stop-color="#825363"/><stop offset="1" stop-color="#A96F83"/></linearGradient>
+ <linearGradient id="headerGlow" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#51303C" stop-opacity=".12"/><stop offset=".5" stop-color="#A96F83" stop-opacity=".25"/><stop offset="1" stop-color="#51303C" stop-opacity=".12"/></linearGradient>
+ <filter id="softShadow" x="-20%" y="-20%" width="140%" height="140%"><feGaussianBlur stdDeviation="4"/></filter>
+ <style><![CDATA[
+  text{font-family:Inter,Segoe UI,Arial,sans-serif} .mono{font-family:ui-monospace,Consolas,monospace}
+  .track{fill:none;stroke:#A88995;stroke-opacity:.40;stroke-width:1.3;stroke-dasharray:3 8}
+  .chip{fill:#FFFFFF;stroke-width:1.2}
+  .chip-label{fill:#35242C;font-size:11.5px;font-weight:700;text-anchor:middle;dominant-baseline:middle}
+  .ring-a{stroke:#51303C}.ring-b{stroke:#825363}.ring-c{stroke:#A96F83}
+  .muted{fill:#725D66}.title{fill:#35242C}
+  @keyframes corePulse{0%,100%{filter:drop-shadow(0 0 3px #825363)}50%{filter:drop-shadow(0 0 11px #A96F83)}}
+  .core{animation:corePulse 3.6s ease-in-out infinite}
+  @media(prefers-reduced-motion:reduce){*{animation:none!important}}
+ ]]></style>
+</defs>
+<rect width="1280" height="820" rx="26" fill="#F9F5F6"/>
+<rect x="1" y="1" width="1278" height="818" rx="25" fill="none" stroke="url(#wineGradient)" stroke-opacity=".72"/>
+<rect x="26" y="19" width="1228" height="78" rx="15" fill="url(#headerGlow)"/>
+<text x="54" y="49" fill="#825363" font-size="12" font-weight="800" letter-spacing="3">TECH STACK / IN MOTION</text>
+<text x="54" y="80" class="title" font-size="26" font-weight="800">Tools, frameworks and foundations I use and explore.</text>
+<text x="1225" y="51" class="mono muted" font-size="10.5" text-anchor="end">ROTATING ORBITS · SVG / SMIL</text>
+<g transform="translate(640 350)">
+ <circle class="track" r="103"/><circle class="track" r="151"/><circle class="track" r="204"/>
+</g>
+<g class="core">
+ <circle cx="640" cy="350" r="62" fill="#FFFFFF" stroke="#51303C" stroke-width="2.4"/>
+ <circle cx="640" cy="350" r="52" fill="none" stroke="url(#wineGradient)" stroke-opacity=".8" stroke-dasharray="4 6"/>
+ <text x="640" y="342" text-anchor="middle" fill="#35242C" font-size="14" font-weight="900">SOFTWARE</text>
+ <text x="640" y="362" text-anchor="middle" fill="#A96F83" font-size="10" font-weight="800" letter-spacing="1.2">DEVELOPMENT</text>
+ <text x="640" y="382" text-anchor="middle" fill="#725D66" font-size="8.5" letter-spacing="1.2">LEARN · BUILD · IMPROVE</text>
+</g>
+<g transform="translate(640 350)"><g><animateTransform attributeName="transform" type="rotate" from="0 0 0" to="360 0 0" dur="16s" repeatCount="indefinite"/>
+<g transform="translate(90.51 -90.51)"><g>
+ <animateTransform attributeName="transform" type="rotate" from="0 0 0" to="-360 0 0" dur="16s" repeatCount="indefinite"/>
+ <rect class="chip ring-a" x="-33.0" y="-14" width="66" height="28" rx="14"/>
+ <circle cx="-24.0" cy="0" r="2.2" fill="#51303C"/>
+ <text class="chip-label" x="4" y="0">Java</text>
+ </g></g>
+<g transform="translate(90.51 90.51)"><g>
+ <animateTransform attributeName="transform" type="rotate" from="0 0 0" to="-360 0 0" dur="16s" repeatCount="indefinite"/>
+ <rect class="chip ring-a" x="-41.0" y="-14" width="82" height="28" rx="14"/>
+ <circle cx="-32.0" cy="0" r="2.2" fill="#51303C"/>
+ <text class="chip-label" x="4" y="0">Python</text>
+ </g></g>
+<g transform="translate(-90.51 90.51)"><g>
+ <animateTransform attributeName="transform" type="rotate" from="0 0 0" to="-360 0 0" dur="16s" repeatCount="indefinite"/>
+ <rect class="chip ring-a" x="-24.0" y="-14" width="48" height="28" rx="14"/>
+ <circle cx="-15.0" cy="0" r="2.2" fill="#51303C"/>
+ <text class="chip-label" x="4" y="0">C</text>
+ </g></g>
+<g transform="translate(-90.51 -90.51)"><g>
+ <animateTransform attributeName="transform" type="rotate" from="0 0 0" to="-360 0 0" dur="16s" repeatCount="indefinite"/>
+ <rect class="chip ring-a" x="-52.0" y="-14" width="104" height="28" rx="14"/>
+ <circle cx="-43.0" cy="0" r="2.2" fill="#51303C"/>
+ <text class="chip-label" x="4" y="0">JavaScript</text>
+ </g></g>
+</g></g>
+<g transform="translate(640 350)"><g><animateTransform attributeName="transform" type="rotate" from="14 0 0" to="374 0 0" dur="23s" repeatCount="indefinite"/>
+<g transform="translate(81.10 -166.28)"><g>
+ <animateTransform attributeName="transform" type="rotate" from="0 0 0" to="-360 0 0" dur="23s" repeatCount="indefinite"/>
+ <rect class="chip ring-b" x="-50.0" y="-14" width="100" height="28" rx="14"/>
+ <circle cx="-41.0" cy="0" r="2.2" fill="#825363"/>
+ <text class="chip-label" x="4" y="0">HTML · CSS</text>
+ </g></g>
+<g transform="translate(180.56 -40.27)"><g>
+ <animateTransform attributeName="transform" type="rotate" from="0 0 0" to="-360 0 0" dur="23s" repeatCount="indefinite"/>
+ <rect class="chip ring-b" x="-41.0" y="-14" width="82" height="28" rx="14"/>
+ <circle cx="-32.0" cy="0" r="2.2" fill="#825363"/>
+ <text class="chip-label" x="4" y="0">React.js</text>
+ </g></g>
+<g transform="translate(144.06 116.07)"><g>
+ <animateTransform attributeName="transform" type="rotate" from="0 0 0" to="-360 0 0" dur="23s" repeatCount="indefinite"/>
+ <rect class="chip ring-b" x="-41.0" y="-14" width="82" height="28" rx="14"/>
+ <circle cx="-32.0" cy="0" r="2.2" fill="#825363"/>
+ <text class="chip-label" x="4" y="0">Node.js</text>
+ </g></g>
+<g transform="translate(-0.92 185.00)"><g>
+ <animateTransform attributeName="transform" type="rotate" from="0 0 0" to="-360 0 0" dur="23s" repeatCount="indefinite"/>
+ <rect class="chip ring-b" x="-49.0" y="-14" width="98" height="28" rx="14"/>
+ <circle cx="-40.0" cy="0" r="2.2" fill="#825363"/>
+ <text class="chip-label" x="4" y="0">Express.js</text>
+ </g></g>
+<g transform="translate(-145.21 114.62)"><g>
+ <animateTransform attributeName="transform" type="rotate" from="0 0 0" to="-360 0 0" dur="23s" repeatCount="indefinite"/>
+ <rect class="chip ring-b" x="-46.0" y="-14" width="92" height="28" rx="14"/>
+ <circle cx="-37.0" cy="0" r="2.2" fill="#825363"/>
+ <text class="chip-label" x="4" y="0">REST APIs</text>
+ </g></g>
+<g transform="translate(-180.15 -42.07)"><g>
+ <animateTransform attributeName="transform" type="rotate" from="0 0 0" to="-360 0 0" dur="23s" repeatCount="indefinite"/>
+ <rect class="chip ring-b" x="-52.0" y="-14" width="104" height="28" rx="14"/>
+ <circle cx="-43.0" cy="0" r="2.2" fill="#825363"/>
+ <text class="chip-label" x="4" y="0">SQL · MySQL</text>
+ </g></g>
+<g transform="translate(-79.44 -167.08)"><g>
+ <animateTransform attributeName="transform" type="rotate" from="0 0 0" to="-360 0 0" dur="23s" repeatCount="indefinite"/>
+ <rect class="chip ring-b" x="-47.0" y="-14" width="94" height="28" rx="14"/>
+ <circle cx="-38.0" cy="0" r="2.2" fill="#825363"/>
+ <text class="chip-label" x="4" y="0">MongoDB</text>
+ </g></g>
+</g></g>
+<g transform="translate(640 350)"><g><animateTransform attributeName="transform" type="rotate" from="-8 0 0" to="352 0 0" dur="32s" repeatCount="indefinite"/>
+<g transform="translate(74.16 -228.25)"><g>
+ <animateTransform attributeName="transform" type="rotate" from="0 0 0" to="-360 0 0" dur="32s" repeatCount="indefinite"/>
+ <rect class="chip ring-c" x="-45.0" y="-14" width="90" height="28" rx="14"/>
+ <circle cx="-36.0" cy="0" r="2.2" fill="#A96F83"/>
+ <text class="chip-label" x="4" y="0">DSA · OOP</text>
+ </g></g>
+<g transform="translate(194.16 -141.07)"><g>
+ <animateTransform attributeName="transform" type="rotate" from="0 0 0" to="-360 0 0" dur="32s" repeatCount="indefinite"/>
+ <rect class="chip ring-c" x="-71.0" y="-14" width="142" height="28" rx="14"/>
+ <circle cx="-62.0" cy="0" r="2.2" fill="#A96F83"/>
+ <text class="chip-label" x="4" y="0">DBMS · OS · Networks</text>
+ </g></g>
+<g transform="translate(240.00 0.00)"><g>
+ <animateTransform attributeName="transform" type="rotate" from="0 0 0" to="-360 0 0" dur="32s" repeatCount="indefinite"/>
+ <rect class="chip ring-c" x="-63.0" y="-14" width="126" height="28" rx="14"/>
+ <circle cx="-54.0" cy="0" r="2.2" fill="#A96F83"/>
+ <text class="chip-label" x="4" y="0">NumPy · Pandas</text>
+ </g></g>
+<g transform="translate(194.16 141.07)"><g>
+ <animateTransform attributeName="transform" type="rotate" from="0 0 0" to="-360 0 0" dur="32s" repeatCount="indefinite"/>
+ <rect class="chip ring-c" x="-50.0" y="-14" width="100" height="28" rx="14"/>
+ <circle cx="-41.0" cy="0" r="2.2" fill="#A96F83"/>
+ <text class="chip-label" x="4" y="0">Matplotlib</text>
+ </g></g>
+<g transform="translate(74.16 228.25)"><g>
+ <animateTransform attributeName="transform" type="rotate" from="0 0 0" to="-360 0 0" dur="32s" repeatCount="indefinite"/>
+ <rect class="chip ring-c" x="-56.0" y="-14" width="112" height="28" rx="14"/>
+ <circle cx="-47.0" cy="0" r="2.2" fill="#A96F83"/>
+ <text class="chip-label" x="4" y="0">Scikit-learn</text>
+ </g></g>
+<g transform="translate(-74.16 228.25)"><g>
+ <animateTransform attributeName="transform" type="rotate" from="0 0 0" to="-360 0 0" dur="32s" repeatCount="indefinite"/>
+ <rect class="chip ring-c" x="-42.0" y="-14" width="84" height="28" rx="14"/>
+ <circle cx="-33.0" cy="0" r="2.2" fill="#A96F83"/>
+ <text class="chip-label" x="4" y="0">PyTorch</text>
+ </g></g>
+<g transform="translate(-194.16 141.07)"><g>
+ <animateTransform attributeName="transform" type="rotate" from="0 0 0" to="-360 0 0" dur="32s" repeatCount="indefinite"/>
+ <rect class="chip ring-c" x="-56.0" y="-14" width="112" height="28" rx="14"/>
+ <circle cx="-47.0" cy="0" r="2.2" fill="#A96F83"/>
+ <text class="chip-label" x="4" y="0">Generative AI</text>
+ </g></g>
+<g transform="translate(-240.00 0.00)"><g>
+ <animateTransform attributeName="transform" type="rotate" from="0 0 0" to="-360 0 0" dur="32s" repeatCount="indefinite"/>
+ <rect class="chip ring-c" x="-66.0" y="-14" width="132" height="28" rx="14"/>
+ <circle cx="-57.0" cy="0" r="2.2" fill="#A96F83"/>
+ <text class="chip-label" x="4" y="0">AWS Foundations</text>
+ </g></g>
+<g transform="translate(-194.16 -141.07)"><g>
+ <animateTransform attributeName="transform" type="rotate" from="0 0 0" to="-360 0 0" dur="32s" repeatCount="indefinite"/>
+ <rect class="chip ring-c" x="-50.0" y="-14" width="100" height="28" rx="14"/>
+ <circle cx="-41.0" cy="0" r="2.2" fill="#A96F83"/>
+ <text class="chip-label" x="4" y="0">Git · GitHub</text>
+ </g></g>
+<g transform="translate(-74.16 -228.25)"><g>
+ <animateTransform attributeName="transform" type="rotate" from="0 0 0" to="-360 0 0" dur="32s" repeatCount="indefinite"/>
+ <rect class="chip ring-c" x="-56.0" y="-14" width="112" height="28" rx="14"/>
+ <circle cx="-47.0" cy="0" r="2.2" fill="#A96F83"/>
+ <text class="chip-label" x="4" y="0">Docker · CI/CD</text>
+ </g></g>
+</g></g>
+<path d="M48 625H1232" stroke="#D7C7CE"/>
+<text x="54" y="645" fill="#825363" font-size="10.5" font-weight="800" letter-spacing="2">SKILLS / BY CATEGORY</text>
+<rect x="52" y="659" width="376" height="60" rx="11" class="chip" stroke="#51303C"/>
+<rect x="52" y="659" width="5" height="60" rx="2.5" fill="#51303C"/>
+<text x="69" y="680" fill="#51303C" font-size="9.3" font-weight="800" letter-spacing="1.05">CORE COMPUTER SCIENCE &amp; LANGUAGES</text>
+<text x="69" y="699" class="title" font-size="10.0">Java · Python · C · JavaScript · DSA · OOP</text>
+<text x="69" y="713" class="muted" font-size="9.5">DBMS · Operating Systems · Networks · Software Engineering</text>
+
+<rect x="452" y="659" width="376" height="60" rx="11" class="chip" stroke="#825363"/>
+<rect x="452" y="659" width="5" height="60" rx="2.5" fill="#825363"/>
+<text x="469" y="680" fill="#825363" font-size="9.3" font-weight="800" letter-spacing="1.05">WEB &amp; BACKEND DEVELOPMENT</text>
+<text x="469" y="699" class="title" font-size="10.0">HTML · CSS · React.js · Node.js · Express.js</text>
+<text x="469" y="713" class="muted" font-size="9.5">REST API Development</text>
+
+<rect x="852" y="659" width="376" height="60" rx="11" class="chip" stroke="#A96F83"/>
+<rect x="852" y="659" width="5" height="60" rx="2.5" fill="#A96F83"/>
+<text x="869" y="680" fill="#A96F83" font-size="9.3" font-weight="800" letter-spacing="1.05">DATABASES &amp; DATA SCIENCE</text>
+<text x="869" y="699" class="title" font-size="10.0">SQL · MySQL · MongoDB · NumPy · Pandas</text>
+<text x="869" y="713" class="muted" font-size="9.5">Matplotlib</text>
+
+<rect x="52" y="728" width="576" height="78" rx="11" class="chip" stroke="#825363"/>
+<rect x="52" y="728" width="5" height="78" rx="2.5" fill="#825363"/>
+<text x="69" y="749" fill="#825363" font-size="9.3" font-weight="800" letter-spacing="1.05">AI / ML &amp; CLOUD</text>
+<text x="69" y="768" class="title" font-size="10.0">Scikit-learn · PyTorch · Generative AI · AI-powered applications</text>
+<text x="69" y="782" class="muted" font-size="9.5">AI-assisted coding · debugging · code review · Prompt Engineering</text>
+<text x="69" y="796" class="muted" font-size="9.5">AWS EC2 · S3 · RDS (Foundational Knowledge)</text>
+<rect x="644" y="728" width="584" height="78" rx="11" class="chip" stroke="#51303C"/>
+<rect x="644" y="728" width="5" height="78" rx="2.5" fill="#51303C"/>
+<text x="661" y="749" fill="#51303C" font-size="9.3" font-weight="800" letter-spacing="1.05">DEVELOPER TOOLS &amp; ENVIRONMENTS</text>
+<text x="661" y="768" class="title" font-size="10.0">VS Code · npm · Postman · Git · GitHub</text>
+<text x="661" y="782" class="muted" font-size="9.5">GitHub Actions (Basic) · Docker (Basic) · Linux Command Line</text>
+<text x="661" y="796" class="muted" font-size="9.5">Jupyter Notebook · Google Colab</text>
+</svg>

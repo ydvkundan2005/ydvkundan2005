@@ -1,4 +1,4 @@
-<table>
+<table width="100%">
   <tr>
     <td valign="middle" width="72%">
       <h1><strong>Kundan Prasad Yadav</strong></h1>
@@ -12,10 +12,11 @@
   </tr>
 </table>
 
+<p>Exploring software engineering and AI/ML, strengthening problem-solving skills, and building practical, user-focused applications.</p>
 
 <br />
 
-<table>
+<table width="100%">
   <tr>
     <td valign="middle" width="76%">
       <h2>About Me</h2>

@@ -15,6 +15,6 @@
 <br />
 
 <p align="center">
-<img src="./assets/tech-stack-orbit-dark.svg?v=5#gh-dark-mode-only" alt="Animated burgundy technology orbit in dark mode" width="96%" />
-<img src="./assets/tech-stack-orbit-light.svg?v=5#gh-light-mode-only" alt="Animated burgundy technology orbit in light mode" width="96%" />
+<img src="./assets/tech-stack-orbit-dark.svg?v=6#gh-dark-mode-only" alt="Animated burgundy technology orbit in dark mode" width="96%" />
+<img src="./assets/tech-stack-orbit-light.svg?v=6#gh-light-mode-only" alt="Animated burgundy technology orbit in light mode" width="96%" />
 </p>

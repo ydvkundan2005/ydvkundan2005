@@ -38,51 +38,46 @@
 <h2>Technical Skills</h2>
 
 <table>
-  <tr>
-    <td valign="top" width="50%">
-      <h3>Core Computer Science Fundamentals</h3>
-      <ul>
-        <li>Data Structures and Algorithms (DSA)</li>
-        <li>Object-Oriented Programming (OOP)</li>
-        <li>Database Management Systems (DBMS)</li>
-        <li>Operating Systems and Computer Networks</li>
-        <li>Software Engineering and Programming Fundamentals</li>
-      </ul>
-
-      <h3>Programming Languages</h3>
-      <p>Java, Python, C</p>
-
-      <h3>Development Technologies</h3>
-      <p><strong>Frontend:</strong> HTML, CSS, JavaScript, React.js</p>
-      <p><strong>Backend:</strong> Node.js, Express.js, REST API Development</p>
-
-      <h3>Databases</h3>
-      <p>SQL, MySQL, MongoDB</p>
-    </td>
-    <td valign="top" width="50%">
-      <h3>AI/ML &amp; Data Science</h3>
-      <ul>
-        <li>Foundational knowledge of NumPy, Pandas, Scikit-learn, Matplotlib, and PyTorch</li>
-        <li>Learning Machine Learning concepts and exploring Generative AI and AI-powered applications</li>
-        <li>AI-assisted coding, debugging, code review, and Prompt Engineering</li>
-      </ul>
-
-      <h3>Cloud Computing</h3>
-      <p><strong>AWS:</strong> EC2, S3, RDS (Foundational Knowledge)</p>
-
-      <h3>Developer Tools &amp; Technologies</h3>
-      <ul>
-        <li><strong>Development:</strong> Visual Studio Code, npm, Postman</li>
-        <li><strong>Version Control:</strong> Git, GitHub</li>
-        <li><strong>Automation &amp; CI/CD:</strong> GitHub Actions (Basic), Docker (Basic)</li>
-        <li><strong>Development Environments:</strong> Jupyter Notebook, Google Colab</li>
-        <li><strong>Operating Environment:</strong> Linux Command Line</li>
-      </ul>
-
-      <h3>AI-Driven Development</h3>
-      <p>Leveraging AI tools for code generation, debugging, code review, technical research, and workflow automation to improve productivity, code quality, and development efficiency.</p>
-    </td>
-  </tr>
+<tr>
+<td valign="top" width="50%">
+<p><img src="https://img.shields.io/badge/CORE_COMPUTER_SCIENCE-FUNDAMENTALS-994A2F?style=flat-square&labelColor=1A1A1A" alt="Core Computer Science Fundamentals" /></p>
+<ul>
+<li>Data Structures and Algorithms (DSA)</li>
+<li>Object-Oriented Programming (OOP)</li>
+<li>Database Management Systems (DBMS)</li>
+<li>Operating Systems and Computer Networks</li>
+<li>Software Engineering and Programming Fundamentals</li>
+</ul>
+<p><img src="https://img.shields.io/badge/PROGRAMMING-LANGUAGES-994A2F?style=flat-square&labelColor=1A1A1A" alt="Programming Languages" /></p>
+<p>Java · Python · C</p>
+<p><img src="https://img.shields.io/badge/DEVELOPMENT-FRONTEND-994A2F?style=flat-square&labelColor=1A1A1A" alt="Frontend Development" /></p>
+<p>HTML · CSS · JavaScript · React.js</p>
+<p><img src="https://img.shields.io/badge/DEVELOPMENT-BACKEND-994A2F?style=flat-square&labelColor=1A1A1A" alt="Backend Development" /></p>
+<p>Node.js · Express.js · REST API Development</p>
+<p><img src="https://img.shields.io/badge/DATABASES-FOUNDATIONS-994A2F?style=flat-square&labelColor=1A1A1A" alt="Databases" /></p>
+<p>SQL · MySQL · MongoDB</p>
+</td>
+<td valign="top" width="50%">
+<p><img src="https://img.shields.io/badge/AI_ML-DATA_SCIENCE-994A2F?style=flat-square&labelColor=1A1A1A" alt="AI ML and Data Science" /></p>
+<ul>
+<li>Foundational knowledge of NumPy, Pandas, Scikit-learn, Matplotlib, and PyTorch</li>
+<li>Learning Machine Learning concepts and exploring Generative AI and AI-powered applications</li>
+<li>AI-assisted coding, debugging, code review, and Prompt Engineering</li>
+</ul>
+<p><img src="https://img.shields.io/badge/CLOUD-COMPUTING-994A2F?style=flat-square&labelColor=1A1A1A" alt="Cloud Computing" /></p>
+<p><strong>AWS:</strong> EC2 · S3 · RDS <em>(Foundational Knowledge)</em></p>
+<p><img src="https://img.shields.io/badge/DEVELOPER-TOOLS-994A2F?style=flat-square&labelColor=1A1A1A" alt="Developer Tools and Technologies" /></p>
+<ul>
+<li><strong>Development:</strong> Visual Studio Code · npm · Postman</li>
+<li><strong>Version Control:</strong> Git · GitHub</li>
+<li><strong>Automation &amp; CI/CD:</strong> GitHub Actions (Basic) · Docker (Basic)</li>
+<li><strong>Development Environments:</strong> Jupyter Notebook · Google Colab</li>
+<li><strong>Operating Environment:</strong> Linux Command Line</li>
+</ul>
+<p><img src="https://img.shields.io/badge/AI_DRIVEN-DEVELOPMENT-994A2F?style=flat-square&labelColor=1A1A1A" alt="AI Driven Development" /></p>
+<p>AI tools for code generation, debugging, code review, technical research, and workflow automation to improve productivity, code quality, and development efficiency.</p>
+</td>
+</tr>
 </table>
 
 <p><em>Continuously learning, building practical projects, and exploring the evolving fields of Software Engineering and Artificial Intelligence.</em></p>
